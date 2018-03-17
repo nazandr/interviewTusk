@@ -1,0 +1,13 @@
+[
+    {"host": "example.com",
+    "login": "demo",
+    "password": "password"},
+    {"fils": [
+        {"path": "./sdfas",
+        "ftpPath": "./asdfsd",
+        "ftype": "txt"},
+        {"path": "./casdf",
+        "ftpPath": "./asdf",
+        "ftype": "pdf"}
+    ]}
+]
